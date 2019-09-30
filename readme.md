@@ -16,7 +16,7 @@ Installation Instructions
 
   npm install
   
-6. create .env file
+5. create .env file
 
   copy and duplicate .env.example file to .env file
   
@@ -29,19 +29,19 @@ Installation Instructions
 
   php artisan migrate
     
-7. Generate session key for laravel
+8. Generate session key for laravel
 
   php artisan key:generate
   
-8. Install all Javascript dependancies to the project
+9. Install all Javascript dependancies to the project
 
   npm run dev
   
-9. Run the artisan server
+10. Run the artisan server
 
 php artisan serve
 
-10. Run the Application
+11. Run the Application
 
 type : localhost:8000 in the browser
  
