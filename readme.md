@@ -44,7 +44,8 @@ Installation Instructions
 11. Run the Application
 
       type : localhost:8000 in the browser
- 
+      
+ 12. Resister and Login to the system 
     
 
 
