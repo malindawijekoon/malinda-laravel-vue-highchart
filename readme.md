@@ -2,7 +2,7 @@ Installation Instructions
 
 1.Clone the repository by
 
-  git clone https://github.com/malindawijekoon/malinda-temper-test.git
+  git clone https://github.com/malindawijekoon/malinda-laravel-vue-highchart.git
   
 2. Go in to malinda-temper-test directory 
 
